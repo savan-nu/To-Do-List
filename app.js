@@ -19,7 +19,7 @@ const item1 = new Item({
     name: "Priyank"
 });
 const item2 = new Item({
-    name: "Mindi"
+    name: "Savan"
 });
 const item3 = new Item({
     name: "Kuki"
